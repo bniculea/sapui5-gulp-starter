@@ -1,0 +1,7 @@
+/dist/
+/node_modules/
+/src/resources/
+.settings
+.project
+sap-ui-cachebuster-info.json
+package-lock.json

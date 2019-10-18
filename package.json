@@ -1,0 +1,22 @@
+{
+  "name": "ui-gulp4-starter-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Bogdan Niculeasa (bogdan.niculeasa@sap.com)",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "del": "^2.0.2",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-watch": "^5.0.1",
+    "gulp-webserver": "^0.9.1",
+    "proxy-middleware": "^0.15.0",
+    "request": "^2.79.0",
+    "request-progress": "^3.0.0",
+    "url": "^0.11.0"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  }
+}
